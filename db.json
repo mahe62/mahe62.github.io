@@ -3,49 +3,57 @@
         {
             "id": 1,
             "title": "First Item",
-            "kategori": "Music"
+            "kategori": "Music",
+            "img": "First Item"
             
         },
         {
             "id": 2,
             "title": "New Second",
-            "kategori": "Creative"
+            "kategori": "Creative",
+            "img": "First Item"
             
         },
         {
             "id": 3,
             "title": "Number Three",
-            "kategori": "Responsive"
+            "kategori": "Responsive",
+            "img": "First Item"
             
         },
         {
             "id": 4,
             "title": "Fourth Item",
-            "kategori": "Creative"
+            "kategori": "Creative",
+            "img": "First Item"
             
         },
         {
             "id": 5,
             "title": "Active Five",
-            "kategori": "Music"
+            "kategori": "Music",
+            "img": "First Item"
             
         },
         {
             "id": 6,
             "title": "Another Six",
-            "kategori": "Responsive"
+            "kategori": "Responsive",
+            "img": "First Item"
             
         },
         {
             "id": 7,
             "title": "New Seven",
-            "kategori": "Creative"
+            "kategori": "Creative",
+            "img": "First Item"
             
         },
         {
             "id": 8,
             "title": "Eighth Item",
-            "kategori": "Music"
+            "kategori": "Music",
+            "img": "First Item"
             
         }
     ]
