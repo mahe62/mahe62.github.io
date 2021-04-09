@@ -2,16 +2,51 @@
     "artikel": [
         {
             "id": 1,
-            "title": "Responsive Design",
-            "description": "Stone template is provided by templatemo website. Credits go to Smashing Magazine for Art Professions Icon Set and Unsplash for images. Praesent imperdiet orci se ante vehicula pulvinar. Morbi adipiscing molestie iaculis. Maecenas accumsan gravida est, quis placerat neque ullamcorper vitae. <br><br>Aenean cursus non neque at porta. Lorem ipsum dolor amet, consectetur adipiscing elit. Praesent massa justo, eleifend ut purus sed, pellentesque scelerisque ligula. Fusce ullamcorper rutrum est, nec ullamcorper velit cursus eget."
+            "title": "First Item",
+            "kategori": "Music"
             
         },
         {
             "id": 2,
-            "title": "Responsive Design",
-            "description": "Stone template is provided by templatemo website. Credits go to Smashing Magazine for Art Professions Icon Set and Unsplash for images. Praesent imperdiet orci se ante vehicula pulvinar. Morbi adipiscing molestie iaculis. Maecenas accumsan gravida est, quis placerat neque ullamcorper vitae. <br><br>Aenean cursus non neque at porta. Lorem ipsum dolor amet, consectetur adipiscing elit. Praesent massa justo, eleifend ut purus sed, pellentesque scelerisque ligula. Fusce ullamcorper rutrum est, nec ullamcorper velit cursus eget."
-           
+            "title": "New Second",
+            "kategori": "Creative"
+            
+        },
+        {
+            "id": 3,
+            "title": "Number Three",
+            "kategori": "Responsive"
+            
+        },
+        {
+            "id": 4,
+            "title": "Fourth Item",
+            "kategori": "Creative"
+            
+        },
+        {
+            "id": 5,
+            "title": "Active Five",
+            "kategori": "Music"
+            
+        },
+        {
+            "id": 6,
+            "title": "Another Six",
+            "kategori": "Responsive"
+            
+        },
+        {
+            "id": 7,
+            "title": "New Seven",
+            "kategori": "Creative"
+            
+        },
+        {
+            "id": 8,
+            "title": "Eighth Item",
+            "kategori": "Music"
+            
         }
-        
     ]
 }
