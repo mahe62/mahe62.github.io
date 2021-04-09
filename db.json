@@ -19,8 +19,6 @@
             "title": "Number Three",
             "kategori": "Responsive",
            "img": "https://raw.githubusercontent.com/mahe62/mahe62.github.io/master/img/p3.jpg"
-            
-            
         },
         {
             "id": 4,
@@ -58,9 +56,74 @@
             "id": 8,
             "title": "Eighth Item",
             "kategori": "Music",
-            "img": "https://raw.githubusercontent.com/mahe62/mahe62.github.io/master/img/p8.jpg"
+            "img": "https://raw.githubusercontent.com/mahe62/mahe62.github.io/master/img/p8.jpg"  
+        }
+    ],
+    "music": [
+        {
+            "id": 1,
+            "title": "First Item",
+            "kategori": "Music",
+            "img": "https://raw.githubusercontent.com/mahe62/mahe62.github.io/master/img/p1.jpg"
+            
+        },
+        {
+            "id": 2,
+            "title": "Active Five",
+            "kategori": "Music",
+            "img": "https://raw.githubusercontent.com/mahe62/mahe62.github.io/master/img/p5.jpg"
+            
+            
+        },
+        {
+            "id": 3,
+            "title": "Eighth Item",
+            "kategori": "Music",
+            "img": "https://raw.githubusercontent.com/mahe62/mahe62.github.io/master/img/p8.jpg"  
+        }
+    ],
+    "creative": [
+        {
+            "id": 1,
+            "title": "New Second",
+            "kategori": "Creative",
+            "img": "https://raw.githubusercontent.com/mahe62/mahe62.github.io/master/img/p2.jpg"
+            
+        },
+        {
+            "id": 2,
+            "title": "Fourth Item",
+            "kategori": "Creative",
+            "img": "https://raw.githubusercontent.com/mahe62/mahe62.github.io/master/img/p4.jpg"
+            
+            
+        },
+        {
+            "id": 3,
+            "title": "New Seven",
+            "kategori": "Creative",
+            "img": "https://raw.githubusercontent.com/mahe62/mahe62.github.io/master/img/p7.jpg"
             
             
         }
+        
+    ],
+    "responsive": [
+        {
+            "id": 1,
+            "title": "Number Three",
+            "kategori": "Responsive",
+           "img": "https://raw.githubusercontent.com/mahe62/mahe62.github.io/master/img/p3.jpg"
+            
+            
+        },
+        {
+            "id": 3,
+            "title": "Number Three",
+            "kategori": "Responsive",
+           "img": "https://raw.githubusercontent.com/mahe62/mahe62.github.io/master/img/p3.jpg"
+        }
+        
+        
     ]
 }
